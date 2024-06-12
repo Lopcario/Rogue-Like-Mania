@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Blueprints/BP_SideScrollerCharacter.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Blueprints/BP_Player2StandIn.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/PaperAssets/Environment/TM_Stage.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Blueprints/BP_TestCamera.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Maps/MAP_SideScroller.umap",
 				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/2DSideScroller/Maps/MAP_SideScroller.umap"
 			]
 		}
