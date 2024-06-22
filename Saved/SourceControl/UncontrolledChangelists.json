@@ -10,6 +10,20 @@
 				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/PaperAssets/Environment/TM_Stage.uasset",
 				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Blueprints/BP_TestCamera.uasset",
 				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Maps/MAP_SideScroller.umap",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/2DSideScroller/Blueprints/BP_SideScrollerCharacter.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/2DSideScroller/Blueprints/BP_Player2StandIn.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/Actions/IA_MoveRight.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/Actions/IA_Trait.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/InputMappingContext/CustomInputMappingContext.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/Actions/IA_DashLeft.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/Actions/IA_Grab.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/Actions/IA_Kick.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/Actions/IA_HeavyAttack.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/Actions/IA_MediumAttack.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/Actions/IA_LowAttack.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/Actions/IA_Crouch.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/Actions/IA_DashRight.uasset",
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania 5.4 - 2/Content/Input/InputMappingContext/IMC_Custom.uasset",
 				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/2DSideScroller/Maps/MAP_SideScroller.umap"
 			]
 		}
