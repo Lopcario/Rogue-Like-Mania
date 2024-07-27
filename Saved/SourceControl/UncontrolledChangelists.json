@@ -5,12 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/2DSideScroller/Maps/MAP_SideScroller.umap",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_7.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_18.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_8.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_9.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_10.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/2DSideScroller/Blueprints/BP_SideScrollerCharacter.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_0.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_1.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_2.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_3.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_4.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_5.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Dummy_Sprite_6.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/Idle.uasset",
+				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/PaperAssets/Dummy/JumpRise.uasset",
 				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Blueprints/BP_SideScrollerCharacter.uasset",
 				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Blueprints/BP_Player2StandIn.uasset",
 				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/PaperAssets/Environment/TM_Stage.uasset",
 				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Blueprints/BP_TestCamera.uasset",
-				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Maps/MAP_SideScroller.umap",
-				"C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/2DSideScroller/Maps/MAP_SideScroller.umap"
+				"C:/Unreal projects/Rogue Like Mania/Rogue-Like-Mania/Content/2DSideScroller/Maps/MAP_SideScroller.umap"
 			]
 		}
 	]
