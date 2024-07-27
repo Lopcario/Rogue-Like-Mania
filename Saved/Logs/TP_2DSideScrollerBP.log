@@ -1042,3 +1042,116 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.27-00.54.27:396][  0]LogMeshMerging: No distributed automatic mesh merging module available
 [2024.07.27-00.54.27:728][  0]LogObj: Error: LoadConfig (/Script/BlueprintGraph.Default__BlueprintEditorSettings): import failed for TypePromotionPinDenyList in: text
 [2024.07.27-00.54.27:762][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2024.07.27-00.54.30:257][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2024.07.27-00.54.30:257][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.07.27-00.54.30:285][  0]LogUObjectArray: 21917 objects as part of root set at end of initial load.
+[2024.07.27-00.54.30:285][  0]LogUObjectAllocator: 6142568 out of 0 bytes used by permanent object pool.
+[2024.07.27-00.54.30:285][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.07.27-00.54.30:299][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.07.27-00.54.30:299][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.07.27-00.54.30:300][  0]LogLiveCoding: Display: First instance in process group "UE_TP_2DSideScrollerBP_0x640c5f3e", spawning console
+[2024.07.27-00.54.30:316][  0]LogLiveCoding: Display: Waiting for server
+[2024.07.27-00.54.30:406][  0]LogSlate: Border
+[2024.07.27-00.54.30:406][  0]LogSlate: BreadcrumbButton
+[2024.07.27-00.54.30:406][  0]LogSlate: Brushes.Title
+[2024.07.27-00.54.30:406][  0]LogSlate: Default
+[2024.07.27-00.54.30:406][  0]LogSlate: Icons.Save
+[2024.07.27-00.54.30:406][  0]LogSlate: Icons.Toolbar.Settings
+[2024.07.27-00.54.30:406][  0]LogSlate: ListView
+[2024.07.27-00.54.30:406][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.07.27-00.54.30:406][  0]LogSlate: SoftwareCursor_Grab
+[2024.07.27-00.54.30:406][  0]LogSlate: TableView.DarkRow
+[2024.07.27-00.54.30:406][  0]LogSlate: TableView.Row
+[2024.07.27-00.54.30:406][  0]LogSlate: TreeView
+[2024.07.27-00.54.30:831][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2024.07.27-00.54.30:849][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 18 ms
+[2024.07.27-00.54.30:890][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2024.07.27-00.54.30:890][  0]LogInit: XR: MultiViewport is Disabled
+[2024.07.27-00.54.30:890][  0]LogInit: XR: Mobile Multiview is Disabled
+[2024.07.27-00.54.30:890][  0]LogTurnkeySupport: Turnkey Device: Win64@DIMANA239: (Name=DIMANA239, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.22631.0, Flags="Device_InstallSoftwareValid")
+[2024.07.27-00.54.31:285][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E5D2BF944EE78888C89496AA021C9BF9 | Instance: 8CFF9691402369E5EFC0DEBAB6DC2539 (DIMANA239-25352).
+[2024.07.27-00.54.31:543][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.07.27-00.54.31:929][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.07.27-00.54.31:980][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.07.27-00.54.33:008][  0]LogPython: Using Python 3.9.7
+[2024.07.27-00.54.34:943][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.07.27-00.54.34:962][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.07.27-00.54.34:968][  0]LogUdpMessaging: Display: Added local interface '192.168.1.174' to multicast group '230.0.0.1:6666'
+[2024.07.27-00.54.36:067][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.07.27-00.54.36:081][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.07.27-00.54.36:081][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.07.27-00.54.36:911][  0]LogOpenImageDenoise: OIDN starting up
+[2024.07.27-00.54.37:135][  0]SourceControl: Revision control is disabled
+[2024.07.27-00.54.37:164][  0]LogUProjectInfo: Found projects:
+[2024.07.27-00.54.37:183][  0]SourceControl: Revision control is disabled
+[2024.07.27-00.54.38:123][  0]LogCollectionManager: Loaded 0 collections in 0.005000 seconds
+[2024.07.27-00.54.38:127][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Saved/Collections/' took 0.00s
+[2024.07.27-00.54.38:132][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/Developers/Marru/Collections/' took 0.00s
+[2024.07.27-00.54.38:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/Collections/' took 0.00s
+[2024.07.27-00.54.39:125][  0]LogEngine: Initializing Engine...
+[2024.07.27-00.54.39:178][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2024.07.27-00.54.39:796][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.07.27-00.54.39:829][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-00.54.39:836][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-00.54.39:877][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.07.27-00.54.39:896][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.07.27-00.54.39:896][  0]LogInit: Texture streaming: Enabled
+[2024.07.27-00.54.39:923][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.07.27-00.54.39:942][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.07.27-00.54.39:964][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.07.27-00.54.39:975][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.07.27-00.54.39:975][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.07.27-00.54.39:976][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.07.27-00.54.39:976][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.07.27-00.54.39:976][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.07.27-00.54.39:976][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.07.27-00.54.39:978][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.07.27-00.54.39:978][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.07.27-00.54.39:979][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.27-00.54.39:979][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.27-00.54.39:979][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.27-00.54.39:979][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.27-00.54.39:979][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.27-00.54.39:979][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.27-00.54.39:979][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.27-00.54.39:979][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.27-00.54.39:980][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.27-00.54.39:980][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.27-00.54.39:980][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.27-00.54.39:994][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.27-00.54.40:657][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.27-00.54.40:659][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.27-00.54.40:720][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.27-00.54.40:721][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.27-00.54.40:726][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.07.27-00.54.40:726][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.27-00.54.40:728][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.27-00.54.40:728][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.07.27-00.54.40:728][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.07.27-00.54.40:729][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.07.27-00.54.40:729][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.07.27-00.54.40:770][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.07.27-00.54.40:782][  0]LogInit: Undo buffer set to 32 MB
+[2024.07.27-00.54.40:782][  0]LogInit: Transaction tracking system initialized
+[2024.07.27-00.54.40:833][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/Marru/Documents/GitHub/Rogue-Like-Mania/Saved/SourceControl/UncontrolledChangelists.json
+[2024.07.27-00.54.40:833][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.07.27-00.54.40:838][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.005013 seconds (Found 134 uncontrolled assets)
+[2024.07.27-00.54.40:860][  0]BlueprintLog: New page: Editor Load
+[2024.07.27-00.54.41:089][  0]LocalizationService: Localization service is disabled
+[2024.07.27-00.54.41:143][  0]TimingProfiler: Initialize
+[2024.07.27-00.54.41:147][  0]TimingProfiler: OnSessionChanged
+[2024.07.27-00.54.41:147][  0]LoadingProfiler: Initialize
+[2024.07.27-00.54.41:147][  0]LoadingProfiler: OnSessionChanged
+[2024.07.27-00.54.41:148][  0]NetworkingProfiler: Initialize
+[2024.07.27-00.54.41:149][  0]NetworkingProfiler: OnSessionChanged
+[2024.07.27-00.54.41:149][  0]MemoryProfiler: Initialize
+[2024.07.27-00.54.41:149][  0]MemoryProfiler: OnSessionChanged
+[2024.07.27-00.54.41:959][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/' took 0.01s
+[2024.07.27-00.54.42:465][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.07.27-00.54.42:569][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.07.27-00.54.42:603][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.07.27-00.54.42:618][  0]SourceControl: Revision control is disabled
+[2024.07.27-00.54.42:618][  0]LogUnrealEdMisc: Loading editor; pre map load, took 41.861
+[2024.07.27-00.54.42:621][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Marru/Documents/GitHub/Rogue-Like-Mania/Content/2DSideScroller/Maps/MAP_SideScroller.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.07.27-00.54.43:080][  0]LogSlate: Took 0.006766 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.07.27-00.54.43:187][  0]LogAssetRegistry: Display: Asset registry cache written as 15.8 MiB to ../../../../../../Users/Marru/Documents/GitHub/Rogue-Like-Mania/Intermediate/CachedAssetRegistry_*.bin
